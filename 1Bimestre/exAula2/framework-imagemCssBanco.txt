@@ -1,0 +1,7 @@
+Tarefa aula 3 - Imagem, css e banco com FrameWwork
+
+1 - Projeto com Imagem ✔
+2 - Projeto com Css ✔
+3 - Projeto com um banco ✔
+4 - Criar as tabelas ✔
+5 - Pesquisa de chave estrangeira
